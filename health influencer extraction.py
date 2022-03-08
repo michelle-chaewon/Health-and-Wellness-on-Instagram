@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-#author: Michelle Chaewon Bak
 #website: https://influence.co/category/health
 
 import os
